@@ -43,6 +43,9 @@ This project is open-source under the **MIT License**. Feel free to contribute a
 
 ## Contact
 For any queries or contributions, reach out via:
-- **Email**: [navadeepck@gmail.com](mailto:navadeepck@gmail.com)
-- **LinkedIn**: [linkedin.com/in/navadeep-c-k](https://linkedin.com/in/navadeep-c-k)
-- **GitHub**: [github.com/mindmaster17](https://github.com/mindmaster17)
+
+- **Lalgy Gopi (Staff Mentor)**: 9895742522
+- **Athul S (Student Mentor)**: 8921353024
+- **Aysha PT (Convenor - IDEATOR GECT)**: 9400020372, [ptaysha29@gmail.com](mailto:ptaysha29@gmail.com)
+- **Navadeep C K**: [navadeepck@gmail.com](mailto:navadeepck@gmail.com)
+
