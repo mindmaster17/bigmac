@@ -40,7 +40,7 @@ This project is a low-cost alternative to the **AbleNet BigMack** communication 
 - **Alternative Activation Methods** (for better accessibility)
 
 ## Contributors
-- **Navadeep C K** and the **GEC Thrissur Ideator student team**
+- **GEC Thrissur Ideator student team**
 
 ## License
 This project is open-source under the **MIT License**. Feel free to contribute and improve the design!
