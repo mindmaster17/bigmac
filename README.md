@@ -27,7 +27,7 @@ This project is a low-cost alternative to the **AbleNet BigMack** communication 
 ## Setup Instructions
 
 1. Assemble all components as per the **circuit diagram**.
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](Circuts/2024-12-19 img.jpg)
 
 2. Record a message using the **ISD1820 module**.
 3. Press the **capacitive touch switch** to play the message.
